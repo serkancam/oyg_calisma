@@ -1,0 +1,6 @@
+Bulanıklaştırma olarak da adlandırılan yumuşatma, bir görüntüde bulunan gürültüyü azaltmak için önemli bir görüntü işleme tekniğidir. Genelde bir görüntüde karşılaştığımız aşağıdaki gürültü türleri vardır: 
+• Tuz ve karabiber gürültüsü: Siyah ve beyaz piksellerin rastgele oluşumlarını içerir 
+• Dürtü gürültüsü: Beyaz piksellerin rastgele oluşması anlamına gelir 
+• Gauss gürültüsü: Yoğunluk değişiminin bir Gauss normal dağılımını takip ettiği yer,
+
+Bu bölümde, gürültü azaltma için aşağıdaki bulanıklaştırma / yumuşatma tekniklerini keşfedeceğiz.
